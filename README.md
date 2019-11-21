@@ -2,8 +2,6 @@
 
 Guarda icon library for cryptocurrencies with high usage.
 
-![Guarda crypto icons](guarda_icons.jpg?raw=true "Guarda crypto icons")
-
 * Vector-based
 * Webfont and SVG formats
 * Scalable without quality loss
