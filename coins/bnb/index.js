@@ -1,7 +1,7 @@
 import ankr from 'guarda-crypto-icons/coins/bnb/ankr.svg';
 import awc from 'guarda-crypto-icons/coins/bnb//awc.svg';
 import bnb from 'guarda-crypto-icons/coins/bnb//bnb.svg';
-import busd from 'guarda-crypto-icons/coins/bnb/busd.svg';
+import gusd from 'guarda-crypto-icons/coins/bnb/gusd.svg';
 import chz from 'guarda-crypto-icons/coins/bnb/chz.svg';
 import ebst from 'guarda-crypto-icons/coins/bnb/ebst.svg';
 import erd from 'guarda-crypto-icons/coins/bnb/erd.svg';
@@ -17,7 +17,7 @@ export default {
   ankr,
   awc,
   bnb,
-  busd,
+  gusd,
   chz,
   ebst,
   erd,

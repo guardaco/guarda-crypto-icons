@@ -1,5 +1,5 @@
 import ont from './ont.svg';
-import ong form './ong.svg';
+import ong from './ong.svg';
 
 export default {
   ont,
