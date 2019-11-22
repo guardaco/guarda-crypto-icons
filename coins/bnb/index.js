@@ -1,14 +1,31 @@
-import ANKRSVG from './ankr.svg';
-import AWCSVG from './awc.svg';
-import BNBSVG from './bnb.svg';
-import BUSDSVG from './busd.svg';
-import CHZSVG from './chz.svg';
-import EBSTSVG from './ebst.svg';
-import ERDSVG from './erd.svg';
-import FTMSVG from './ftm.svg';
-import GBPSVG from './gbp.svg';
-import LOKISVG from './loki.svg';
-import LTOSVG from './lto.svg';
-import NOWSVG from './now.svg';
-import SYNCSVG from './sync.svg';
-import UNDSVG from './und.svg';
+import ankr from 'guarda-crypto-icons/coins/bnb/ankr.svg';
+import awc from 'guarda-crypto-icons/coins/bnb//awc.svg';
+import bnb from 'guarda-crypto-icons/coins/bnb//bnb.svg';
+import busd from 'guarda-crypto-icons/coins/bnb/busd.svg';
+import chz from 'guarda-crypto-icons/coins/bnb/chz.svg';
+import ebst from 'guarda-crypto-icons/coins/bnb/ebst.svg';
+import erd from 'guarda-crypto-icons/coins/bnb/erd.svg';
+import ftm from 'guarda-crypto-icons/coins/bnb/ftm.svg';
+import gbp from 'guarda-crypto-icons/coins/bnb/gbp.svg';
+import loki from 'guarda-crypto-icons/coins/bnb/loki.svg';
+import lto from 'guarda-crypto-icons/coins/bnb/lto.svg';
+import now from 'guarda-crypto-icons/coins/bnb/now.svg';
+import sync from 'guarda-crypto-icons/coins/bnb/sync.svg';
+import und from 'guarda-crypto-icons/coins/bnb/und.svg';
+
+export default {
+  ankr,
+  awc,
+  bnb,
+  busd,
+  chz,
+  ebst,
+  erd,
+  ftm,
+  gbp,
+  loki,
+  lto,
+  now,
+  sync,
+  und,
+};
