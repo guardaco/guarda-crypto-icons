@@ -9,7 +9,6 @@
     "fct": "#2175bb",
     "gno": "#00a6c4",
     "gnt": "#00d6e3",
-    "gusd": "#00DCFA",
     "icn": "#4c6f8c",
     "iost": "#1c1c1c",
     "mco": "#0d3459",
@@ -32,6 +31,7 @@
   },
   "bnb": {
     "bnb": "#F3BA2F",
+    "gusd": "#00DCFA",
     "sync": "#008dd2"
   },
   "ada": "#016F80",
